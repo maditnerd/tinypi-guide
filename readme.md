@@ -115,7 +115,7 @@ http://pinout.xyz
 
 
 ## BTN - BTX/BTZ/NAV/U$2
-![](tinyPi_buttons.svg)
+![](TinyPi_buttons.svg)
 ### BTX - Button X
 
 01. (TOP LEFT) NS$12 -- 13 
