@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="39.631615mm"
+   height="57.490444mm"
+   viewBox="0 0 39.631615 57.490444"
+   version="1.1"
+   id="svg66"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="speaker.svg">
+  <defs
+     id="defs60" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="579.14922"
+     inkscape:cy="-247.15936"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5354"
+       originx="-4.0116541"
+       originy="-237.52232" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="TINYPI"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.0116539,-1.9872431)">
+    <g
+       transform="matrix(0.9343329,0,0,0.9343329,-96.041814,-38.681325)"
+       id="g7567-7"
+       inkscape:label="speaker">
+      <rect
+         ry="0.66128379"
+         transform="rotate(-90)"
+         y="125.02781"
+         x="-53.005493"
+         height="7.048068"
+         width="5.6773906"
+         id="rect5256-4-2"
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0.01299545;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0.01302385;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="rect5256-4-0-8"
+         width="5.7022567"
+         height="7.0480394"
+         x="-99.118591"
+         y="125.87826"
+         transform="rotate(-90)"
+         ry="0.96491385" />
+      <rect
+         y="51.52359"
+         x="108.60542"
+         height="43.966114"
+         width="40.625244"
+         id="rect5460-6"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;stroke:#ffeeaa;stroke-width:0.02618144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6931-2"
+         d="m 109.6054,73.024201 7.95127,-6.61492 v 13.396883 z"
+         style="fill:#fff6d5;fill-opacity:1;stroke:#ffeeaa;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="rotate(90)"
+         id="text6983-18"
+         y="-136.77139"
+         x="56.899902"
+         style="font-style:normal;font-weight:normal;font-size:6.26556873px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1566392"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.1566392"
+           y="-136.77139"
+           x="56.899902"
+           id="tspan6981-1"
+           sodipodi:role="line">CMT-1603</tspan><tspan
+           id="tspan6985-0"
+           style="stroke-width:0.1566392"
+           y="-128.93944"
+           x="56.899902"
+           sodipodi:role="line">CUI Inc</tspan><tspan
+           id="tspan6987-8"
+           style="stroke-width:0.1566392"
+           y="-121.10747"
+           x="56.899902"
+           sodipodi:role="line">China3717</tspan></text>
+      <ellipse
+         ry="0.9921875"
+         rx="1.0394346"
+         cy="57.221352"
+         cx="117.07812"
+         id="path6989-5"
+         style="opacity:1;fill:#c8b7b7;fill-opacity:1;stroke:#ffeeaa;stroke-width:0.30000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.9921875"
+         rx="1.0394346"
+         cy="56.985119"
+         cx="145.23735"
+         id="path6989-3-9"
+         style="opacity:1;fill:#c8b7b7;fill-opacity:1;stroke:#ffeeaa;stroke-width:0.30000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.9921875"
+         rx="1.0394346"
+         cy="89.113098"
+         cx="117.83408"
+         id="path6989-6-8"
+         style="opacity:1;fill:#c8b7b7;fill-opacity:1;stroke:#ffeeaa;stroke-width:0.30000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.9921875"
+         rx="1.0394346"
+         cy="89.113098"
+         cx="145.14285"
+         id="path6989-7-3"
+         style="opacity:1;fill:#c8b7b7;fill-opacity:1;stroke:#ffeeaa;stroke-width:0.30000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

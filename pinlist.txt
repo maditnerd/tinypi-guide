@@ -1,0 +1,112 @@
+Pinlist
+
+Exported from 90fa6b9f4514d96da4eb23d6bf9820d1.brd at 23/02/2018 11:41
+
+EAGLE Version 8.6.3 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT+     1        N$20
+
+BAT-     1        GND@8
+
+BTX      1        GND@1
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        N$12
+
+BTZ      1        GND@1
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        N$11
+
+D1       A        N$20
+         C        N$21
+
+NAV      A        N$9
+         B        N$5
+         C        N$8
+         D        N$10
+         NC                *** unconnected ***
+         CTR      N$4
+         GND      GND@3
+         NC@0              *** unconnected ***
+
+PI1      1        3V3@1
+         2        5V0@2
+         3                 *** unconnected ***
+         4        S$1
+         5                 *** unconnected ***
+         6        GND@8
+         7                 *** unconnected ***
+         8        N$16
+         9        GND@1
+         10       N$17
+         11                *** unconnected ***
+         12       N$13
+         13       N$12
+         14                *** unconnected ***
+         15       N$11
+         16       N$18
+         17       3V3@2
+         18       N$6
+         19       N$3
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22       N$1
+         23       N$2
+         24       N$7
+         25       GND@2
+         26                *** unconnected ***
+         27       N$10
+         28                *** unconnected ***
+         29       N$9
+         30                *** unconnected ***
+         31       N$8
+         32                *** unconnected ***
+         33       N$15
+         34                *** unconnected ***
+         35       N$5
+         36                *** unconnected ***
+         37       N$4
+         38                *** unconnected ***
+         39       GND@3
+         40                *** unconnected ***
+
+R1       1        3V3@2
+         2        N$14
+
+S1       O                 *** unconnected ***
+         P        N$21
+         S        5V0@2
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+         P$4               *** unconnected ***
+
+SG1      P$1      N$13
+         P$2      GND@8
+
+SG2      P$1      N$15
+         P$2      GND@8
+
+U$1      P$1      3V3@1
+         P$2      3V3@1
+         P$3      N$3
+         P$4      N$6
+         P$5      N$7
+         P$6      N$2
+         P$7      GND@8
+         P$8               *** unconnected ***
+         P$9      N$1
+         P$10     GND@8
+         P$11     N$14
+         P$12     GND@2
+         P$13              *** unconnected ***
+
+U$2      1        N$16
+         2        N$18
+         C        GND@8
+         T        N$17
+         NC                *** unconnected ***
+
